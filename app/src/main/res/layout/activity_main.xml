@@ -21,7 +21,7 @@
                 android:layout_margin="8dp"
                 android:layout_toLeftOf="@+id/titleEntryDetailCard"
                 android:elevation="4dp"
-                android:text="Application Form Name"
+                android:text="Application Form Name TEST"
                 android:textAlignment="center"
                 android:textSize="27sp" android:padding="@dimen/padding1"/>
         </android.support.v7.widget.CardView>
